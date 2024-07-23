@@ -9,5 +9,5 @@ Details of files given:
 
 LEADSCORE.ipynb : The python file showing coding and data analysis 
 AssignmentSubjectiveQuestions_answered.pdf : subjective questions answered
-X-Eductaion: This is a presentation of X-Eductaion's business problems and technical approach towards solving the business problem
-Upgrad_case
+X-Eductaion.pdf: This is a presentation of X-Eductaion's business problems and technical approach towards solving the business problem
+Upgrad-case-study.pdf: This file talks about the project summary
