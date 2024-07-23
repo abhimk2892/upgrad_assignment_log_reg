@@ -7,4 +7,7 @@ Reading Data Cleaning Data EDA Creating Dummy Splitting data into train and test
 
 Details of files given:
 
-LEADSCORE.ipynb : The python file showing coding and data analysis AssignmentSubjectiveQuestions_answered.pdf : subjective questions answered
+LEADSCORE.ipynb : The python file showing coding and data analysis 
+AssignmentSubjectiveQuestions_answered.pdf : subjective questions answered
+X-Eductaion: This is a presentation of X-Eductaion's business problems and technical approach towards solving the business problem
+Upgrad_case
